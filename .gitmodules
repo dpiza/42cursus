@@ -1,0 +1,15 @@
+[submodule "00-Libft"]
+	path = 00-Libft
+	url = https://github.com/dpiza/libft.git
+[submodule "02-Get_Next_Line"]
+	path = 02-Get_Next_Line
+	url = https://github.com/dpiza/get_next_line.git
+[submodule "03-Printf"]
+	path = 03-Printf
+	url = https://github.com/dpiza/ft_printf.git
+[submodule "05-Fract-ol"]
+	path = 05-Fract-ol
+	url = https://github.com/dpiza/fract-ol.git
+[submodule "06-Minitalk"]
+	path = 06-Minitalk
+	url = https://github.com/dpiza/minitalk.git
