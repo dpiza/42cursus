@@ -37,7 +37,7 @@ These are the projects I've done so far, with the score and the respective repo.
 |Born2beroot|A project in which we had to set up a linux server from scratch | [![Denny's 42Project Score](https://badge42.herokuapp.com/api/project/dpiza/Born2beroot)](https://github.com/JaeSeoKim/badge42)|
 |[`Fract-ol`](https://github.com/dpiza/fract-ol)|A fractal browser |[![Denny's 42Project Score](https://badge42.herokuapp.com/api/project/dpiza/fract-ol)](https://github.com/JaeSeoKim/badge42) |
 |[`Minitalk`](https://github.com/dpiza/minitalk)| A communication program using UNIX signals| [![Denny's 42Project Score](https://badge42.herokuapp.com/api/project/dpiza/minitalk)](https://github.com/JaeSeoKim/badge42)|
-|Push_swap| | [![Denny's 42Project Score](https://badge42.herokuapp.com/api/project/dpiza/push_swap)](https://github.com/JaeSeoKim/badge42)|
+|[`Push_swap`](https://github.com/dpiza/push_swap)| A data sorting program (Work in progress) | [![Denny's 42Project Score](https://badge42.herokuapp.com/api/project/dpiza/push_swap)](https://github.com/JaeSeoKim/badge42)|
 
 
 ### The Game
