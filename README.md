@@ -38,7 +38,7 @@ These are the projects I've done so far, with the score and the respective repo.
 |[`Fract-ol`](https://github.com/dpiza/fract-ol)|A fractal browser |[![Denny's 42Project Score](https://badge42.herokuapp.com/api/project/dpiza/fract-ol)](https://github.com/JaeSeoKim/badge42) |
 |[`Minitalk`](https://github.com/dpiza/minitalk)| A communication program using UNIX signals| [![Denny's 42Project Score](https://badge42.herokuapp.com/api/project/dpiza/minitalk)](https://github.com/JaeSeoKim/badge42)|
 |[`Push_swap`](https://github.com/dpiza/push_swap)| A data sorting program | [![Denny's 42Project Score](https://badge42.herokuapp.com/api/project/dpiza/push_swap)](https://github.com/JaeSeoKim/badge42)|
-|Minishell| A simple shell| [![Denny's 42Project Score](https://badge42.herokuapp.com/api/project/dpiza/minishell)](https://github.com/JaeSeoKim/badge42)|
+|[Minishell](https://github.com/dpiza/minishell)| A simple shell| [![Denny's 42Project Score](https://badge42.herokuapp.com/api/project/dpiza/minishell)](https://github.com/JaeSeoKim/badge42)|
 
 
 ### The Game

@@ -16,3 +16,6 @@
 [submodule "06-Push_Swap"]
 	path = 06-Push_Swap
 	url = https://github.com/dpiza/push_swap.git
+[submodule "07-Minishell"]
+	path = 07-Minishell
+	url = https://github.com/dpiza/minishell.git
