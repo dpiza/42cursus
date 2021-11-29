@@ -33,19 +33,19 @@ These are the projects I've done so far, with the score and the respective repo.
 | --- | --- | --- |
 |[`Libft`](https://github.com/dpiza/libft)| A set of usual functions that are used on later projects  | [![Denny's 42Project Score](https://badge42.herokuapp.com/api/project/dpiza/Libft)](https://github.com/JaeSeoKim/badge42) |
 |[`Get Next Line`](https://github.com/dpiza/get_next_line)| A function that returns a line, read from a file descriptor| [![Denny's 42Project Score](https://badge42.herokuapp.com/api/project/dpiza/get_next_line)](https://github.com/JaeSeoKim/badge42)|
-|[`Printf`](https://github.com/dpiza/ft_printf)|Recode of printf. | [![Denny's 42Project Score](https://badge42.herokuapp.com/api/project/dpiza/ft_printf)](https://github.com/JaeSeoKim/badge42)|
-|Born2beroot|A project in which we had to set up a linux server from scratch | [![Denny's 42Project Score](https://badge42.herokuapp.com/api/project/dpiza/Born2beroot)](https://github.com/JaeSeoKim/badge42)|
+|[`Printf`](https://github.com/dpiza/ft_printf)|Recode of printf | [![Denny's 42Project Score](https://badge42.herokuapp.com/api/project/dpiza/ft_printf)](https://github.com/JaeSeoKim/badge42)|
+|`Born2beroot`|A project in which we have to set up a linux server from scratch | [![Denny's 42Project Score](https://badge42.herokuapp.com/api/project/dpiza/Born2beroot)](https://github.com/JaeSeoKim/badge42)|
 |[`Fract-ol`](https://github.com/dpiza/fract-ol)|A fractal browser |[![Denny's 42Project Score](https://badge42.herokuapp.com/api/project/dpiza/fract-ol)](https://github.com/JaeSeoKim/badge42) |
 |[`Minitalk`](https://github.com/dpiza/minitalk)| A communication program using UNIX signals| [![Denny's 42Project Score](https://badge42.herokuapp.com/api/project/dpiza/minitalk)](https://github.com/JaeSeoKim/badge42)|
 |[`Push_swap`](https://github.com/dpiza/push_swap)| A data sorting program | [![Denny's 42Project Score](https://badge42.herokuapp.com/api/project/dpiza/push_swap)](https://github.com/JaeSeoKim/badge42)|
-|[Minishell](https://github.com/dpiza/minishell)| A simple shell| [![Denny's 42Project Score](https://badge42.herokuapp.com/api/project/dpiza/minishell)](https://github.com/JaeSeoKim/badge42)|
+|[`Minishell`](https://github.com/dpiza/minishell)| A simple shell like bash or zsh| [![Denny's 42Project Score](https://badge42.herokuapp.com/api/project/dpiza/minishell)](https://github.com/JaeSeoKim/badge42)|
 
 
 ### The Game
 
 42 SP have a gamification system that awards badges for each approved project and each phase of the core curriculum, in a way to record the cadet's progression. With the approval of the Minitalk project, I concluded the first phase of the core curriculum.
 
-### Phase one:
+#### Phase one:
 
 <p align="center">
 <img align="center" width="20%" src="https://github.com/dpiza/resources/blob/master/badges/phase_onee.png?raw=true" />
@@ -59,7 +59,7 @@ These are the projects I've done so far, with the score and the respective repo.
 <img align="center" width="15%" src="https://github.com/dpiza/resources/blob/master/badges/libfte.png?raw=true" />
 </p>
 
-### Phase Two:
+#### Phase Two:
 
 <p align="center">
 <img align="center" width="15%" src="https://github.com/dpiza/resources/blob/master/badges/push_swape.png?raw=true" />
