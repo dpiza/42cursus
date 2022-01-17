@@ -39,6 +39,7 @@ These are the projects I've done so far, with the score and the respective repo.
 |[`Minitalk`](https://github.com/dpiza/minitalk)| A communication program using UNIX signals| [![Denny's 42Project Score](https://badge42.herokuapp.com/api/project/dpiza/minitalk)](https://github.com/JaeSeoKim/badge42)|
 |[`Push_swap`](https://github.com/dpiza/push_swap)| A data sorting program | [![Denny's 42Project Score](https://badge42.herokuapp.com/api/project/dpiza/push_swap)](https://github.com/JaeSeoKim/badge42)|
 |[`Minishell`](https://github.com/dpiza/minishell)| A simple shell like bash or zsh| [![Denny's 42Project Score](https://badge42.herokuapp.com/api/project/dpiza/minishell)](https://github.com/JaeSeoKim/badge42)|
+|[`Philosophers`](https://github.com/dpiza/philosophers)| A multi-thread philosopher's life simulation (in progress)| [![Denny's 42Project Score](https://badge42.herokuapp.com/api/project/dpiza/Philosophers)](https://github.com/JaeSeoKim/badge42)|
 
 
 ### The Game
@@ -63,6 +64,7 @@ These are the projects I've done so far, with the score and the respective repo.
 
 <p align="center">
 <img align="center" width="15%" src="https://github.com/dpiza/resources/blob/master/badges/push_swape.png?raw=true" />
+<img align="center" width="15%" src="https://github.com/dpiza/resources/blob/master/badges/minishellm.png?raw=true" />
 </p>
 
 ## License

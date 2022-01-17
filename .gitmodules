@@ -18,4 +18,4 @@
 	url = https://github.com/dpiza/push_swap.git
 [submodule "07-Minishell"]
 	path = 07-Minishell
-	url = https://github.com/dpiza/minishell.git
+	url = https://github.com/dpiza/minishell
