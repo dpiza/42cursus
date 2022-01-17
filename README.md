@@ -52,12 +52,12 @@ These are the projects I've done so far, with the score and the respective repo.
 <img align="center" width="20%" src="https://github.com/dpiza/resources/blob/master/badges/phase_onee.png?raw=true" />
 </p>
 <p align="center">
-<img align="center" width="15%" src="https://github.com/dpiza/resources/blob/master/badges/minitalkm.png?raw=true" />
-<img align="center" width="15%" src="https://github.com/dpiza/resources/blob/master/badges/fractolm.png?raw=true" />
-<img align="center" width="15%" src="https://github.com/dpiza/resources/blob/master/badges/born2berootm.png?raw=true" />
-<img align="center" width="15%" src="https://github.com/dpiza/resources/blob/master/badges/ft_printfm.png?raw=true" />
-<img align="center" width="15%" src="https://github.com/dpiza/resources/blob/master/badges/get_next_linem.png?raw=true" />
 <img align="center" width="15%" src="https://github.com/dpiza/resources/blob/master/badges/libfte.png?raw=true" />
+<img align="center" width="15%" src="https://github.com/dpiza/resources/blob/master/badges/get_next_linem.png?raw=true" />
+<img align="center" width="15%" src="https://github.com/dpiza/resources/blob/master/badges/ft_printfm.png?raw=true" />
+<img align="center" width="15%" src="https://github.com/dpiza/resources/blob/master/badges/born2berootm.png?raw=true" />
+<img align="center" width="15%" src="https://github.com/dpiza/resources/blob/master/badges/fractolm.png?raw=true" />
+<img align="center" width="15%" src="https://github.com/dpiza/resources/blob/master/badges/minitalkm.png?raw=true" />
 </p>
 
 #### Phase Two:
