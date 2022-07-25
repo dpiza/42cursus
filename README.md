@@ -21,7 +21,7 @@ The curriculum at 42 starts with the core curriculum. This experience sets the b
 
 <p align="center">
 <a href="https://github.com/JaeSeoKim/badge42">
-  <img src="https://badge42.herokuapp.com/api/stats/dpiza?darkmode=true&cursus=42cursus" />
+  <img src="https://badge42.vercel.app/api/v2/cl1seauye002109lctlsaw1rr/stats?cursusId=21&coalitionId=undefined" />
 </a>
 </p>
 
@@ -31,16 +31,17 @@ These are the projects I've done so far, with the score and the respective repo.
 
 | SUBJECT | DESCRIPTION | SCORE |
 | --- | --- | --- |
-|[`Libft`](https://github.com/dpiza/libft)| A set of usual functions that are used on later projects  | [![Denny's 42Project Score](https://badge42.herokuapp.com/api/project/dpiza/Libft)](https://github.com/JaeSeoKim/badge42) |
-|[`Get Next Line`](https://github.com/dpiza/get_next_line)| A function that returns a line, read from a file descriptor| [![Denny's 42Project Score](https://badge42.herokuapp.com/api/project/dpiza/get_next_line)](https://github.com/JaeSeoKim/badge42)|
-|[`Printf`](https://github.com/dpiza/ft_printf)|Recode of printf | [![Denny's 42Project Score](https://badge42.herokuapp.com/api/project/dpiza/ft_printf)](https://github.com/JaeSeoKim/badge42)|
-|`Born2beroot`|A project in which we have to set up a linux server from scratch | [![Denny's 42Project Score](https://badge42.herokuapp.com/api/project/dpiza/Born2beroot)](https://github.com/JaeSeoKim/badge42)|
-|[`Fract-ol`](https://github.com/dpiza/fract-ol)|A fractal browser |[![Denny's 42Project Score](https://badge42.herokuapp.com/api/project/dpiza/fract-ol)](https://github.com/JaeSeoKim/badge42) |
-|[`Minitalk`](https://github.com/dpiza/minitalk)| A communication program using UNIX signals| [![Denny's 42Project Score](https://badge42.herokuapp.com/api/project/dpiza/minitalk)](https://github.com/JaeSeoKim/badge42)|
-|[`Push_swap`](https://github.com/dpiza/push_swap)| A data sorting program | [![Denny's 42Project Score](https://badge42.herokuapp.com/api/project/dpiza/push_swap)](https://github.com/JaeSeoKim/badge42)|
-|[`Minishell`](https://github.com/dpiza/minishell)| A simple shell like bash or zsh| [![Denny's 42Project Score](https://badge42.herokuapp.com/api/project/dpiza/minishell)](https://github.com/JaeSeoKim/badge42)|
-|[`Philosophers`](https://github.com/dpiza/philosophers)| A multi-thread simulation of the dining philosopher's problem (in progress)| [![Denny's 42Project Score](https://badge42.herokuapp.com/api/project/dpiza/Philosophers)](https://github.com/JaeSeoKim/badge42)|
-
+|[`Libft`](https://github.com/dpiza/libft)| A set of usual functions that are used on later projects  | [![dpiza's 42 Libft Score](https://badge42.vercel.app/api/v2/cl1seauye002109lctlsaw1rr/project/2175127)](https://github.com/JaeSeoKim/badge42) |
+|[`Get Next Line`](https://github.com/dpiza/get_next_line)| A function that returns a line, read from a file descriptor| [![dpiza's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl1seauye002109lctlsaw1rr/project/2201771)](https://github.com/JaeSeoKim/badge42)|
+|[`Printf`](https://github.com/dpiza/ft_printf)|Recode of printf | [![dpiza's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl1seauye002109lctlsaw1rr/project/2283257)](https://github.com/JaeSeoKim/badge42)|
+|`Born2beroot`|A project in which we have to set up a linux server from scratch | [![dpiza's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl1seauye002109lctlsaw1rr/project/2325135)](https://github.com/JaeSeoKim/badge42)|
+|[`Fract-ol`](https://github.com/dpiza/fract-ol)|A fractal browser using miniLibX|[![dpiza's 42 fract-ol Score](https://badge42.vercel.app/api/v2/cl1seauye002109lctlsaw1rr/project/2365942)](https://github.com/JaeSeoKim/badge42)|
+|[`Minitalk`](https://github.com/dpiza/minitalk)| A communication program using UNIX signals| [![dpiza's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl1seauye002109lctlsaw1rr/project/2394000)](https://github.com/JaeSeoKim/badge42)|
+|[`Push_swap`](https://github.com/dpiza/push_swap)| A data sorting program | [![dpiza's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl1seauye002109lctlsaw1rr/project/2400627)](https://github.com/JaeSeoKim/badge42)|
+|[`Minishell`](https://github.com/dpiza/minishell)| A simple shell like bash or zsh| [![dpiza's 42 minishell Score](https://badge42.vercel.app/api/v2/cl1seauye002109lctlsaw1rr/project/2423539)](https://github.com/JaeSeoKim/badge42)|
+|[`Philosophers`](https://github.com/dpiza/philosophers)| A multi-thread simulation of the dining philosopher's problem| [![dpiza's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl1seauye002109lctlsaw1rr/project/2459187)](https://github.com/JaeSeoKim/badge42)|
+|`NetPractice`|This project is a general practical exercise about networking | [![dpiza's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl1seauye002109lctlsaw1rr/project/2535700)](https://github.com/JaeSeoKim/badge42)|
+|[`Cub3d`](https://github.com/dpiza/cub3d)|A RayCaster game using miniLibX (Work In Progress) | [![dpiza's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl1seauye002109lctlsaw1rr/project/2554120)](https://github.com/JaeSeoKim/badge42)|
 
 ### The Game
 
