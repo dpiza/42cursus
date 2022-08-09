@@ -66,6 +66,8 @@ These are the projects I've done so far, with the score and the respective repo.
 <p align="center">
 <img align="center" width="15%" src="https://github.com/dpiza/resources/blob/master/badges/push_swape.png?raw=true" />
 <img align="center" width="15%" src="https://github.com/dpiza/resources/blob/master/badges/minishellm.png?raw=true" />
+<img align="center" width="15%" src="https://github.com/dpiza/resources/blob/master/badges/philosopherse.png?raw=true" />
+<img align="center" width="15%" src="https://github.com/dpiza/resources/blob/master/badges/netpracticee.png?raw=true" />
 </p>
 
 ## License
