@@ -19,3 +19,6 @@
 [submodule "07-Minishell"]
 	path = 07-Minishell
 	url = https://github.com/dpiza/minishell
+[submodule "08-Philosophers"]
+	path = 08-Philosophers
+	url = https://github.com/dpiza/philosophers.git
