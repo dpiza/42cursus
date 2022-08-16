@@ -22,3 +22,6 @@
 [submodule "08-Philosophers"]
 	path = 08-Philosophers
 	url = https://github.com/dpiza/philosophers.git
+[submodule "09-Cub3D"]
+	path = 09-Cub3D
+	url = https://github.com/dpiza/cub3d

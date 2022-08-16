@@ -41,7 +41,8 @@ These are the projects I've done so far, with the score and the respective repo.
 |[`Minishell`](https://github.com/dpiza/minishell)| A simple shell like bash or zsh| [![dpiza's 42 minishell Score](https://badge42.vercel.app/api/v2/cl1seauye002109lctlsaw1rr/project/2423539)](https://github.com/JaeSeoKim/badge42)|
 |[`Philosophers`](https://github.com/dpiza/philosophers)| A multi-thread simulation of the dining philosopher's problem| [![dpiza's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl1seauye002109lctlsaw1rr/project/2459187)](https://github.com/JaeSeoKim/badge42)|
 |`NetPractice`|This project is a general practical exercise about networking | [![dpiza's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl1seauye002109lctlsaw1rr/project/2535700)](https://github.com/JaeSeoKim/badge42)|
-|[`Cub3d`](https://github.com/dpiza/cub3d)|A RayCaster game using miniLibX (Work In Progress) | [![dpiza's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl1seauye002109lctlsaw1rr/project/2554120)](https://github.com/JaeSeoKim/badge42)|
+|[`Cub3d`](https://github.com/dpiza/cub3d)|A RayCaster game using miniLibX  | [![dpiza's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl1seauye002109lctlsaw1rr/project/2554120)](https://github.com/JaeSeoKim/badge42)|
+|`CPP`|C++ introduction (Work In Progress) | [![dpiza's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl1seauye002109lctlsaw1rr/project/2724800)](https://github.com/JaeSeoKim/badge42)|
 
 ### The Game
 
@@ -64,11 +65,16 @@ These are the projects I've done so far, with the score and the respective repo.
 #### Phase Two:
 
 <p align="center">
+<img align="center" width="20%" src="https://github.com/dpiza/resources/blob/master/badges/phase_twoe.png?raw=true" />
+<p align="center">
 <img align="center" width="15%" src="https://github.com/dpiza/resources/blob/master/badges/push_swape.png?raw=true" />
 <img align="center" width="15%" src="https://github.com/dpiza/resources/blob/master/badges/minishellm.png?raw=true" />
 <img align="center" width="15%" src="https://github.com/dpiza/resources/blob/master/badges/philosopherse.png?raw=true" />
 <img align="center" width="15%" src="https://github.com/dpiza/resources/blob/master/badges/netpracticee.png?raw=true" />
+<img align="center" width="15%" src="https://github.com/dpiza/resources/blob/master/badges/cub3dm.png?raw=true" />
 </p>
+
+#### Phase Three:
 
 ## License
 
